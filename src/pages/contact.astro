@@ -1,0 +1,31 @@
+---
+import { info } from "@data";
+
+import MetaHead from "@components/general/MetaHead.astro";
+import Layout from "@layouts/Layout.astro";
+
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <MetaHead
+      title={"Contact"}
+      description={"A page to contact "}
+      ogImageUrl={"/assets/images/profile.png"}
+    />
+</head>
+
+  <body>
+    <Layout>
+        <h1 style="line-height: 1.2;">Contact</h1>
+        <p class="dark:text-light text-lg mb-16">
+            Business inquiry or questions/comments?
+            <br/>
+            <a id="my-email" href="mailto:contact@drakeafk.io">Click here!</a>
+            <br/><br/><br/>
+            Or send your Email to: contact@drakeafk.io
+        </p>
+    </Layout>
+  </body>
+</html>
