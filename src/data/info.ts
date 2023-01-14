@@ -12,7 +12,7 @@ export const info = {
     {
       name: "Web Developer",
       location: "Freelance",
-      startDate: "Aug 2020",
+      startDate: "Aug 2019",
       endDate: "Present",
       description: [
         "✓ Design & build websites for individuals and small businesses",
