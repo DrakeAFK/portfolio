@@ -159,14 +159,14 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/colored-memory-screenshot.png",
       githubUrl: "https://github.com/drakeafk/colored-memory",
-      liveUrl: "https://www.drakehopkins.com/projects/color-memory/index.html",
+      liveUrl: "/projects/color-memory/index.html",
     },
     {
       title: "vDrums",
       isFeatured: true,
       thumbnail: "/assets/images/vDrums-screenshot.png",
       githubUrl: "https://github.com/drakeafk/vDrums",
-      liveUrl: "src/projects/drum-set/index.html",
+      liveUrl: "/projects/drum-set/index.html",
     },
   ],
 };
