@@ -166,7 +166,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/vDrums-screenshot.png",
       githubUrl: "https://github.com/drakeafk/vDrums",
-      liveUrl: "https://www.drakehopkins.com/projects/drum-set/index.html",
+      liveUrl: "projects/drum-set/index.html",
     },
   ],
 };
