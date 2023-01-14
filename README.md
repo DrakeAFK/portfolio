@@ -1,2 +1,2 @@
-# portfolio
-Personal portfolio - Built with Astro, TypeScript, and Tailwind
+# Personal Portfolio
+Built with Astro, TypeScript, and Tailwind
