@@ -2,11 +2,13 @@ export const info = {
   baseUrl: "https://drakeafk.net",
   name: "Drake Hopkins",
   // jobDescription: "Web Developer",
-  about: `I'm a Web Developer and IT Professional currently based in the United States.
-   As a web developer, I help people & businesses reach others through the internet. 
-      I operate as a Full-Stack Developer and always trying to improve my skillset.
-   As an IT Professional, I help people & businesses quickly and efficiently resolve a wide range of technical issues in areas such as hardware/software troubleshooting, infrastructure, operations, and policies & processes. 
-      I am constantly learning/researching the latest technologies in order to stay on top of constantly evolving IT trends.`,
+  about: `I'm a Web Developer and IT Professional currently based in the United States. As a web 
+            developer, I help people & businesses reach others through the internet and create useful 
+            useful tools. I operate as a Full-Stack Developer and always trying to improve my skillset. 
+            As an IT Professional, I help people & businesses quickly and efficiently resolve a wide 
+            range of technical issues in areas such as hardware/software troubleshooting, 
+            infrastructure, operations, and policies & processes. I am constantly learning/researching 
+            the latest technologies in order to stay on top of constantly evolving IT trends.`,
 
   experience: [
     {
@@ -15,9 +17,9 @@ export const info = {
       startDate: "Aug 2019",
       endDate: "Present",
       description: [
-        "✓ Design & build websites for individuals and small businesses",
-        "✓ Documenting, testing, deployment, maintenance",
-        "✓ Code Improvements and Refactoring ",
+        "- Design & build websites for individuals and small businesses",
+        "- Documenting, testing, deployment, maintenance",
+        "- Code improvements and refactoring ",
       ],
     },
 
@@ -27,9 +29,9 @@ export const info = {
       startDate: "Feb 2022",
       endDate: "Present",
       description: [
-        "✓ Work with individuals and small businesses to evaluate IT needs relating to systems and infrastructure",
-        "✓ Diagnose system problems, inefficiencies, and weaknesses",
-        "✓ Provide advice for technology 'best practices'"
+        "- Work with individuals and small businesses to evaluate IT needs relating to systems and infrastructure",
+        "- Diagnose system problems, inefficiencies, and weaknesses",
+        "- Provide advice for technology 'best practices'"
       ],
     },
 
@@ -115,6 +117,14 @@ export const info = {
     },
   ],
 
+  certLinks: {
+    appBrewery: "https://appbrewery.com/",
+    cSteele: "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    jSchmed: "https://www.udemy.com/course/the-complete-javascript-course/",
+    jPortilla: "https://www.udemy.com/course/complete-python-bootcamp/",
+    tefl: "https://www.tefl.org/en-us/courses/online/120-hour-premier-online-tefl-course/",
+  },
+
   certifications: [
     {
       name: "Information Technology",
@@ -140,7 +150,98 @@ export const info = {
     {
       name: "MISC",
       description: [
-        "✓ TEFL/TESOL",
+        "✓ TEFL/TESOL - The TEFL Org",
+      ],
+    },
+  ],
+
+  skills: [
+    {
+      name: "Programming",
+      description: [
+        "✓ HTML/CSS/JavaScript",
+        "✓ Bootstrap",
+        "✓ Tailwind",
+        "✓ jQuery",
+        "✓ React.js",
+        "✓ Node.js",
+        "✓ Express",
+        "✓ Astro",
+        "✓ Python",
+        "✓ Flask",
+        "✓ Git & GitHub [Version Control]",
+        "✓ SQL",
+        "✓ MongoDB",
+        "✓ Web3 Decentralized Apps",
+        "✓ Mobile App Development [Swift & Flutter/Dart]",
+        "✓ Linux",
+        "✓ User Interface Design",
+      ],
+    },
+    {
+      name: "Information Technology",
+      description: [
+        "✓ Microsoft Windows/MacOS/Linux",
+        "✓ iOS/Android",
+        "✓ Configure/Install/Update Operating Systems",
+        "✓ Install & Image Virtual Machines",
+        "✓ Setup & Troubleshoot Peripheral Devices",
+        "✓ Assemble & Disassemble Computing Hardware",
+        "✓ Setup & Support Home and Small Office Networks",
+        "✓ Implement Cybersecurity Controls",
+        "✓ Help Desk & Technical Support",
+        "✓ Troubleshoot & Support End-Users",
+        "✓ Configure/Maintain/Manage Network Devices",
+        "✓ Troubleshoot Network Problems",
+        "✓ Ticketing Systems",
+      ],
+    },
+    {
+      name: "Microsoft Office",
+      description: [
+        "✓ MS Word",
+        "✓ MS Excel",
+        "✓ MS PowerPoint",
+        "✓ MS Outlook",
+        "✓ MS Access",
+        "✓ MS Exchange",
+      ],
+    },
+    {
+      name: "Creative Applications",
+      description: [
+        "✓ Adobe Photoshop",
+        "✓ Adobe Illustrator",
+        "✓ Adobe Premiere Pro",
+        "✓ Adobe After Effects",
+        "✓ Adobe Lightroom",
+        "✓ Adobe XD",
+        "✓ Adobe Dreamweaver",
+        "✓ Affinity Photo",
+        "✓ DaVinci Resolve",
+        "✓ Blender 3D",
+        "✓ Unity",
+        "✓ Unreal Engine",
+      ],
+    },
+    {
+      name: "Workplace",
+      description: [
+        "✓ Great Communication [Written & Verbal]",
+        "✓ Able ot Work in a Team or Solo",
+        "✓ Well-Organized",
+        "✓ Critical Thinking & Problem Solving",
+        "✓ Analytical",
+        "✓ Project Management",
+        "✓ Resourceful",
+      ],
+    },
+    {
+      name: "Languages",
+      description: [
+        "✓ English [Native]",
+        "✓ Spanish [4 Semesters | Still Practice | Read & Write w/ Basic Competence]",
+        "✓ Russian [Online Instruction | Still Developing]",
       ],
     },
   ],

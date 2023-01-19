@@ -42,3 +42,10 @@ export interface IProjects {
 export interface IProjectDetails {
   projectDetail: IProject;
 }
+
+export interface ISkills {
+  title: string;
+  name: string;
+  description:string[];
+  details: ISkills[];
+}

@@ -7,6 +7,7 @@ import Experience from "@components/home/Experience.astro";
 import Certifications from "@components/home/Certifications.astro";
 import ProjectsWrapper from "@components/general/ProjectsWrapper.astro";
 import MetaHead from "@components/general/MetaHead.astro";
+import Skills from "@components/home/Skills.astro";
 
 const featureProjects = info.projects.map((project, index) => {
   if (project.isFeatured && index < 6) {
@@ -35,6 +36,7 @@ const featureProjects = info.projects.map((project, index) => {
         <h2 class="w-[15rem] dark:text-light mt-16">FEATURED PROJECTS</h2>
         <ProjectsWrapper projects={featureProjects} />
       </section>
+      <Skills title={"SKILLS"} details={info.skills} />
     </Layout>
   </body>
 </html>
