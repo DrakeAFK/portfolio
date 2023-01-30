@@ -145,6 +145,7 @@ export const info = {
         "✓ Python Bootcamp - Jose Portilla",
         "✓ Flutter App Development w/ Dart - The App Brewery",
         "✓ iOS App Development w/ Swift - The App Brewery",
+        "✓ Responsive Web Design - freeCodeCamp",
       ],
     },
     {
