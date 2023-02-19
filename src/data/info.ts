@@ -3,12 +3,14 @@ export const info = {
   name: "Drake Hopkins",
   // jobDescription: "Web Developer",
   about: `I'm a Web Developer and IT Professional currently based in the United States. As a web 
-            developer, I help people & businesses reach others through the internet and create useful 
-            useful tools. I operate as a Full-Stack Developer and always trying to improve my skillset. 
-            As an IT Professional, I help people & businesses quickly and efficiently resolve a wide 
-            range of technical issues in areas such as hardware/software troubleshooting, 
-            infrastructure, operations, and policies & processes. I am constantly learning/researching 
-            the latest technologies in order to stay on top of constantly evolving IT trends.`,
+            developer, I specialize in creating efficient, functional, and visually appealing websites 
+            that meet the unique needs of my clients. I operate as a Full-Stack Developer and always 
+            trying to improve my skillset. 
+            As an IT Professional, I am dedicated to helping individuals and businesses navigate the 
+            complex world of technology. With extensive knowledge and experience in areas such as 
+            hardware/software troubleshooting, IT infrastructure & operations, and IT policies & processes. 
+            From troubleshooting software issues to implementing new technology solutions, I am committed 
+            to providing exceptional service and support that meets the unique needs of each client.`,
 
   experience: [
     {
