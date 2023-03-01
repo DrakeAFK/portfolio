@@ -265,12 +265,5 @@ export const info = {
       githubUrl: "https://github.com/drakeafk/colored-memory",
       liveUrl: "/projects/color-memory/index.html",
     },
-    {
-      title: "vDrums",
-      isFeatured: true,
-      thumbnail: "/assets/images/vDrums-screenshot.png",
-      githubUrl: "https://github.com/drakeafk/vDrums",
-      liveUrl: "/projects/drum-set/index.html",
-    },
   ],
 };
